@@ -1,0 +1,14 @@
+C:\Users\danishpasha\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Queue_Implementation_M.exe
+C:\Users\danishpasha\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Queue_Implementation_M.deps.json
+C:\Users\danishpasha\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Queue_Implementation_M.runtimeconfig.json
+C:\Users\danishpasha\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Queue_Implementation_M.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Queue_Implementation_M.dll
+C:\Users\danishpasha\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Queue_Implementation_M.pdb
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.dll
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.pdb
+C:\Users\danishpasha\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Queue_Implementation_M.genruntimeconfig.cache
