@@ -1,0 +1,28 @@
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.exe
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.deps.json
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.runtimeconfig.json
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.dll
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.pdb
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.dll
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.pdb
+C:\Users\danishpasha\source\repos\Exercise_3\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.genruntimeconfig.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.dll
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.pdb
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.exe
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.deps.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.runtimeconfig.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.dll
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.pdb
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.genruntimeconfig.cache
