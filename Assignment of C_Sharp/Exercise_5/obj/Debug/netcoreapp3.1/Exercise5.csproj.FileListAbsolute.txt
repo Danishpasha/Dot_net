@@ -1,0 +1,28 @@
+C:\Users\danishpasha\source\repos\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+C:\Users\danishpasha\source\repos\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+C:\Users\danishpasha\source\repos\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+C:\Users\danishpasha\source\repos\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\danishpasha\source\repos\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\danishpasha\source\repos\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.genruntimeconfig.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\bin\Debug\netcoreapp3.1\Exercise5.exe
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\bin\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_5\obj\Debug\netcoreapp3.1\Exercise5.genruntimeconfig.cache

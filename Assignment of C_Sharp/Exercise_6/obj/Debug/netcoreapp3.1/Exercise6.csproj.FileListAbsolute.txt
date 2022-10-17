@@ -1,0 +1,28 @@
+C:\Users\danishpasha\source\repos\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.exe
+C:\Users\danishpasha\source\repos\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.deps.json
+C:\Users\danishpasha\source\repos\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.json
+C:\Users\danishpasha\source\repos\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\danishpasha\source\repos\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.pdb
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.pdb
+C:\Users\danishpasha\source\repos\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.genruntimeconfig.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\bin\Debug\netcoreapp3.1\Exercise6.exe
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\bin\Debug\netcoreapp3.1\Exercise6.deps.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\bin\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\bin\Debug\netcoreapp3.1\Exercise6.pdb
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.pdb
+C:\Users\danishpasha\source\repos\Assignment of C_Sharp\Exercise_6\obj\Debug\netcoreapp3.1\Exercise6.genruntimeconfig.cache

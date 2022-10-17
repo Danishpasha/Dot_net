@@ -1,0 +1,14 @@
+C:\Users\danishpasha\source\repos\Exercise_7\bin\Debug\netcoreapp3.1\Exercise_7.exe
+C:\Users\danishpasha\source\repos\Exercise_7\bin\Debug\netcoreapp3.1\Exercise_7.deps.json
+C:\Users\danishpasha\source\repos\Exercise_7\bin\Debug\netcoreapp3.1\Exercise_7.runtimeconfig.json
+C:\Users\danishpasha\source\repos\Exercise_7\bin\Debug\netcoreapp3.1\Exercise_7.runtimeconfig.dev.json
+C:\Users\danishpasha\source\repos\Exercise_7\bin\Debug\netcoreapp3.1\Exercise_7.dll
+C:\Users\danishpasha\source\repos\Exercise_7\bin\Debug\netcoreapp3.1\Exercise_7.pdb
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.csproj.AssemblyReference.cache
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.AssemblyInfoInputs.cache
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.AssemblyInfo.cs
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.csproj.CoreCompileInputs.cache
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.dll
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.pdb
+C:\Users\danishpasha\source\repos\Exercise_7\obj\Debug\netcoreapp3.1\Exercise_7.genruntimeconfig.cache
