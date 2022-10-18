@@ -1,1 +1,0 @@
-The file in the git has been pushed now and this is only for the practise to see whether the github is working or not.
