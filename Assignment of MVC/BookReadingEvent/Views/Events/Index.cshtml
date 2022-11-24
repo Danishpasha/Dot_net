@@ -1,0 +1,57 @@
+﻿@model IEnumerable<BookReadingEvent.Models.Event>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+
+    .headings table tr td {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: cursive;
+    }
+
+    table tr h3 {
+        border: 1px solid black;
+    }
+    body
+    {
+        font-family:cursive;
+    }
+</style>
+
+<body>
+    <h2 style="padding-top:50px ; font-family: cursive;">Events</h2>
+
+    <p style="padding-top:10px;">
+        <h4 style="font-family: cursive;">
+            This Event is about the Book Reading Event Management and here you can see up the upcoming and past Events.
+            But if you want to pasticipate in the event then you must have to register youself and should have a account.
+        </h4>
+        <h5 style="font-family: cursive;"> *Click on Upcoming events to see the Future Events </h5>
+        <h5 style="font-family: cursive;"> *Click on Past events to see the Past Events </h5>
+        <h5 style="font-family: cursive;"> *Click on Create New to participate in the Event  </h5>
+
+        <h6 style="color:red" font-family: cursive;> /all the details you can see up in the upcoming and past events regarding date , time etc .</h6>
+    </p>
+
+
+
+    <div class=" headings">
+        <table>
+            <tr>
+                <td> @Html.ActionLink("Create New", "Create")</td>
+            </tr>
+
+            <tr>
+                <td>   @Html.ActionLink("Upcoming Events", "Upcoming_Events")</td>
+            </tr>
+            <tr>
+                <td> @Html.ActionLink("Past Events", "Past_Events")</td>
+            </tr>
+
+        </table>
+
+    </div>
+</body>

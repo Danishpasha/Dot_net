@@ -1,0 +1,66 @@
+﻿@model BookReadingEvent.Models.Comment
+
+@{
+    ViewBag.Title = "Details";
+}
+<style>
+    body {
+        font-family: cursive
+    }
+</style>
+<body>
+
+
+    <h2 style="padding-top:50px;">Details of Comments</h2>
+
+    <div>
+
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.EventID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.EventID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.UserFullname)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UserFullname)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.UserID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UserID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Date)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Date)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Data)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Data)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CommentID })  |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+    </body>

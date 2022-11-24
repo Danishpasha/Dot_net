@@ -1,0 +1,6 @@
+D:\Assignment\danish-pasha\Assignment of Design Pattern\BookReadingEventManagement-Design pattern\Shared\bin\Debug\Shared.dll
+D:\Assignment\danish-pasha\Assignment of Design Pattern\BookReadingEventManagement-Design pattern\Shared\bin\Debug\Shared.pdb
+D:\Assignment\danish-pasha\Assignment of Design Pattern\BookReadingEventManagement-Design pattern\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+D:\Assignment\danish-pasha\Assignment of Design Pattern\BookReadingEventManagement-Design pattern\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+D:\Assignment\danish-pasha\Assignment of Design Pattern\BookReadingEventManagement-Design pattern\Shared\obj\Debug\Shared.dll
+D:\Assignment\danish-pasha\Assignment of Design Pattern\BookReadingEventManagement-Design pattern\Shared\obj\Debug\Shared.pdb

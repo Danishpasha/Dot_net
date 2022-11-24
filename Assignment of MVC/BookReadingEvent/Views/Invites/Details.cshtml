@@ -1,0 +1,18 @@
+﻿@model BookReadingEvent.Models.Invite
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 style="padding-top:50px;">Details</h2>
+
+<div>
+    <h4>Invite</h4>
+    <hr />
+    <dl class="dl-horizontal">
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.EventID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
